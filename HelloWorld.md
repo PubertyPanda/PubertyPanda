@@ -1,6 +1,6 @@
-✨ Just an Engineer with diagnosed ADHD ✨
-****************************************\
-
+✨ Just an Engineer with diagnosed ADHD ✨ \
+**************************************** \
+\
 Hobbies/Interests:\
 Automation\
 Games\
@@ -11,8 +11,8 @@ Stonks\
 Numbers\
 MBSE\
 Fact checking through Data Analysis
-****************************************\
-
+**************************************** \
+\
 Currently diving into:\
 Machine Learning\
 Collaborative/Adaptive APIs for MBSE\
