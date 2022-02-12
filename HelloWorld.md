@@ -15,7 +15,7 @@ Fact checking through Data Analysis\
 #### **Currently diving into:**
 Machine Learning\
 Collaborative/Adaptive APIs for MBSE\
-Baysian Statistics and Crossovers with Quantum Mechanics\
+Baysian Statistics and Crossovers with Quantum Mechanics
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 “Poets say science takes away from the beauty of the stars—mere globs of gas atoms.
