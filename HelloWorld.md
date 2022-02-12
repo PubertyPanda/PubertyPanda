@@ -20,4 +20,4 @@
 >*“Poets say science takes away from the beauty of the stars—mere globs of gas atoms\
 Nothing is 'mere.' I too can see the stars on a desert night, and feel them.”\*
 
-**-Richard Feynman**
+*Richard Feynman*
