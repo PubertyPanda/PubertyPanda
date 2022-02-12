@@ -10,7 +10,7 @@ Space\
 Stonks\
 Numbers\
 MBSE\
-Fact checking through Data Analysis
+Fact checking through Data Analysis\
 **************************************** \
 \
 Currently diving into:\
