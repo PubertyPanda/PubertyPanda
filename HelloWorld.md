@@ -1,5 +1,4 @@
-✨ Just an Engineer with diagnosed ADHD ✨ \
-
+✨ Just an Engineer with diagnosed ADHD ✨
 
 **Hobbies/Interests:**
 - Automation
